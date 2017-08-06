@@ -1,0 +1,6 @@
+# local vagrant directory
+/.vagrant/
+
+# npm files
+/node_modules
+npm-debug.log
